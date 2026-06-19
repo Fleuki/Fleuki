@@ -28,5 +28,5 @@
 
 ## 📬 Связаться
 
-- Telegram: @Fleuki
+- Telegram: @fleuki
 - Email: ishimov.2005@gmail.com
